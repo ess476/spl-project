@@ -3,9 +3,6 @@ To build libspl:
     1. Build libseccomp follow the instructions at ./libseccomp/README.md
     2. Go to libspl and run `make clean all`
 
-T
-
-
 
 System Call/Capabilities Table
 
